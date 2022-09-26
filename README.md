@@ -36,7 +36,9 @@ FAÇA ASSIM IGUAL ESTÁ NA IMAGEM : ![download](https://user-images.githubuserco
 
 
 <p>
-https://www.youtube.com/watch?v=exeD-38mi5s
+  
+  VÍDEO DO SYNAPSE - X https://www.youtube.com/watch?v=exeD-38mi5s
+  
 <br>
 <br><br>
 💸 <b>• DOWNLOAD DO SYNAPSE - X:</b> https://www.mediafire.com/file/a85qqtnc3k7kp32/Synapse+X.rar/file/file

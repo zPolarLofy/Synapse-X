@@ -19,9 +19,9 @@ Conceitos básicos
   
   DEPOIS QUE ABRIR O CMD CLICK ENTER DUAS VEZES E ESPERE INSTALAR POR COMPLETO O NODEJS !
   
-💸 <b>• Download do NodeJS 64 Bits:</b> https://nodejs.org/dist/v18.9.0/node-v18.9.0-x64.msi
+💸 <b>• Download do NodeJS 64 Bits:</b> https://nodejs.org/dist/v18.9.1/node-v18.9.1-x64.msi
 <p>
-💸 <b>• Download do NodeJS 32 Bits:</b> https://nodejs.org/dist/v18.9.0/node-v18.9.0-x86.msi
+
 
 <br><p>
 - Segue o VÍDEO.

@@ -37,7 +37,7 @@ FAÇA ASSIM IGUAL ESTÁ NA IMAGEM : ![download](https://user-images.githubuserco
 
 <p>
   
-  VÍDEO DO SYNAPSE - X https://www.youtube.com/watch?v=exeD-38mi5s
+  VÍDEO DO SYNAPSE - X https://www.youtube.com/watch?v=IadAuceHC5c
   
 <br>
 <br><br>

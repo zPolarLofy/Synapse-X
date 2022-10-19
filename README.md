@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 
 <br><p>
-- Segue o VÍDEO.
+<b>- Segue o VÍDEO.
 <p>
   <big>
   VÍDEO DO SYNAPSE - X https://www.youtube.com/watch?v=IadAuceHC5c

@@ -31,5 +31,6 @@ ________________________________________________________________________________
   VÍDEO DO SYNAPSE - X https://www.youtube.com/watch?v=IadAuceHC5c
 <br>
 💸 <b>• DOWNLOAD DO SYNAPSE - X:</b> https://www.mediafire.com/file/px0j5pmbt7bi10v/Synapse+X.rar/file
+    <b>• Senha : synapse
 <br>
 <br>

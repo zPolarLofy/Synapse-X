@@ -11,8 +11,7 @@ Conceitos básicos
 
 
 <br><br>
-💢 - <b>Fazer o Download do Node.js pois é necessário para o script funcionar. <p> 
-💢 ( OBS : CASO NÃO INSTALE O NODE JS, O SYNAPSE NÃO VAI ABRIR. ) 💢<P>
+💢 ( OBS : Querer o Python Instalado, caso o Python não estiver instalado n irá abrir. ) 💢<P>
   
   SELECIONE A CAIXINHA ! QUANDO FOR INSTALAR CASO CONTRÁRIO NÃO IRÁ PEGAR !
   

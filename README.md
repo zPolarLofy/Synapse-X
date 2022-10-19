@@ -15,7 +15,8 @@ Conceitos básicos
   
   SELECIONE A CAIXINHA ! QUANDO FOR INSTALAR CASO CONTRÁRIO NÃO IRÁ PEGAR !
   
-![download](https://user-images.githubusercontent.com/113463089/192170204-d5daec34-504d-4825-8aef-fb74804dc9d4.png)
+![0_7nOyowsPsGI19pZT](https://user-images.githubusercontent.com/113463089/196594482-b86d6509-2aee-48ab-be48-9813ee2f9b87.png)
+
   
   
 💸 <b>• Download Python 3.10.8 :</b> https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe
@@ -25,7 +26,7 @@ Conceitos básicos
 <br><p>
 - Segue o VÍDEO.
 <p>
-  
+  <big>
   VÍDEO DO SYNAPSE - X https://www.youtube.com/watch?v=IadAuceHC5c
 <br>
 💸 <b>• DOWNLOAD DO SYNAPSE - X:</b> https://www.mediafire.com/file/px0j5pmbt7bi10v/Synapse+X.rar/file
